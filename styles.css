@@ -1,0 +1,294 @@
+body{
+    color: white;
+    background-color: blue;
+    width: 100%;
+}
+
+.inicio{
+    background-color: rgb(9, 9, 95);
+
+}
+
+.titulo1{
+    background-color:rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    height: 50px;
+    text-shadow: 0.1rem 0.1rem black;
+    font-family: serif;
+}
+
+.titulo3{
+    background-color:rgb(9, 9, 95) ;
+    color: white;
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem black;
+    font-family: serif;
+}
+
+
+.titulo4{
+    background-color:rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem rgb(0, 0, 0);
+    font-family: serif;  
+    height: 50px;
+}
+
+.relleno{
+    background-color: rgb(9, 9, 95);
+    color:white;
+    text-align: center;
+    text-indent: 0%;
+    justify-content: center;
+   margin-top: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    height: 1700px;
+    
+    
+}
+
+.relleno2{
+    background-color:rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    height: 600px;
+    margin-top: 0%;
+   
+}
+
+.relleno3{
+    background-color: rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    margin-top: -2%;
+    height: 700px;
+   
+    
+}
+
+.relleno4{
+    background-color: rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+    height: 600px;
+    
+    
+}
+
+.relleno5{
+    background-color: rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    margin-top: -2%;
+    height: 600px;
+}
+
+
+.relleno6{
+    background-color: rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.relleno7{
+    background-color: rgb(9, 9, 95);
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.titulo1{
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem gray;
+    margin-top: -0.4%;
+    font-family: serif;
+}
+
+.texto1{
+    text-align: center;
+    display: inline-block;
+    
+}
+
+
+.otra{
+    text-align: center;
+    color: white;
+    margin-top: 6%;
+}
+
+
+
+
+.nav-link.thomas{
+    margin-left: 220%;
+}
+
+.nav-link{
+    margin-left: 34%;
+}
+
+.nav-link.titulo1{
+    margin-right: 38%;
+}
+
+.sombra{
+    text-shadow: 0.1rem 0.1rem gray;
+}
+
+.card{
+    margin-left: 43%;
+}
+
+.accordionFlushExample{
+    width: 50%;
+}
+
+
+.container-fluid{
+    background-color: white;
+    color: black;
+    margin-top: -0.3%;
+
+}
+
+.bloque1{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    height: 450px;
+    width: 40%;
+    
+}
+
+.bloque2{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 40%;
+    margin-top: 7%;
+    margin-left: 10%;
+    height: 450px;
+    
+}
+
+.bloque3{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 40%;
+    margin-top: 7%;
+    height: 620px;
+}
+
+.bloque4{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 6%;
+}
+.bloque5{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 3%;
+}
+.bloque6{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 3%;
+}
+.bloque7{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 3%;
+}
+.bloque8{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 3%;
+}
+
+.bloque9{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 3%;
+}
+
+.bloque10{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 1%;
+}
+
+.bloque11{
+    color: black;
+    background-color: beige;
+    display: inline-block;
+    border-radius: 5%;
+    width: 30%;
+    margin-top: 1%;
+}
+
+#accordionFlushExample{
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+
+.dropdown-item{
+    text-align: center;
+    font-family: serif;
+    background-color: beige;
+
+}
+
+.pie{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    height: 170px;
+    margin-top: 0%;
+}
+
+.textoPie{
+    color: white;
+    background-color: black;
+    margin-left: 18%;
+    margin-top: -6.5%;
+    text-align: center;
+    font-family: serif;
+}
+
+
+.sub{
+    margin-top: 1%;
+}
