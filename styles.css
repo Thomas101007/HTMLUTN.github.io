@@ -24,6 +24,17 @@ body{
     text-align: center;
     text-shadow: 0.1rem 0.1rem black;
     font-family: serif;
+    margin-top: 0.5%;
+
+}
+
+.titulo5{
+    background-color:rgb(9, 9, 95) ;
+    color: white;
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem black;
+    font-family: serif;
+    
 }
 
 
@@ -212,7 +223,7 @@ body{
     display: inline-block;
     border-radius: 5px;
     width: 30%;
-    margin-top: 3%;
+    margin-top: 2%;
 }
 .bloque7{
     color: black;
